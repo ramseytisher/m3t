@@ -48,7 +48,17 @@ const StyledDescription = styled.div`
 `;
 
 const Hero = ({ data }) => {
-  const { introduction, author, tagline, description, ctaLink, ctaLabel } = data;
+  const {
+    introduction,
+    author,
+    tagline,
+    description,
+    ctaLink,
+    ctaLabel,
+    hero_image
+  } = data;
+
+  const image = hero_image ? hero_image.childImageSharp.fluid : null;
 
   return (
     <StyledHeroSection>
