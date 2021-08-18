@@ -14,12 +14,12 @@ const StyledFactNumber = styled.section`
   display: flex;
   flex-direction: column;
   padding: 1rem;
+  font-family: 'Black Ops One';
 
   & > .number {
     margin-left: 2rem;
     margin-bottom: 1rem;
     font-size: 2rem;
-    font-weight: bold;
   }
 
   & > .fact {
@@ -49,15 +49,15 @@ const Facts = () => {
       <StyledLogoSection>
         <StyledFactNumber>
           <span className="number">127</span>
-          <span className="fact">Finished Projects</span>
+          <span className="fact">Trail Videos</span>
         </StyledFactNumber>
         <StyledFactNumber>
-          <span className="number">321</span>
+          <span className="number">234</span>
           <span className="fact">Happy Customers</span>
         </StyledFactNumber>
         <StyledFactNumber>
-          <span className="number">863</span>
-          <span className="fact">Freelancing Hours</span>
+          <span className="number">1,248,652</span>
+          <span className="fact">Video Views</span>
         </StyledFactNumber>
       </StyledLogoSection>
     </StyledSkewedSection>

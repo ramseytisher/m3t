@@ -67,7 +67,7 @@ const CardGrid = ({ cards, description, title, id = null }) => {
   });
 
   return (
-    <StyledSection id={id}>
+    <StyledSection id="services">
       {title && <StyledH1>{title}</StyledH1>}
       <StyledTextSection dangerouslySetInnerHTML={{ __html: description }} />
       <StyledFeatureGridContainer>{featureCards}</StyledFeatureGridContainer>

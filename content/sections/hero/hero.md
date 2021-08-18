@@ -1,10 +1,9 @@
 ---
-introduction: "hey it's me"
-tagline: 'Design. Code. Experiment'
-cta_label: 'View Documentation'
+introduction: "we are"
+tagline: "let's dig in!"
+cta_label: 'View Our Youtube Channel'
 cta_link: 'https://github.com/Knochenmark/gatsby-starter-level-2/blob/master/README.md'
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-sed diam nonumy eirmod tempor invidunt ut labore
-et dolore magna aliquyam erat, sed diam voluptua.
+A digital media company that enjoys getting out on the trails as much as you do. 
+Let us help you increase traffic (literally)!

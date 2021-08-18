@@ -3,7 +3,6 @@ import styled from '@emotion/styled';
 export const StyledH1 = styled.h1`
   width: 100%;
   position: relative;
-  font-weight: 800;
   margin: 20px 0;
 
   &:first-letter {

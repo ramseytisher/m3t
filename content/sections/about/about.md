@@ -1,7 +1,7 @@
 ---
-title: 'The Gatsby starter that makes developer dreams come true!'
-about_image: './me.jpg'
-techs: ['Gatsby', 'Javascript', 'React', 'GraphQL', 'Emotion', 'Stylus']
+title: 'Our mission is to bring muck (mud) and riders together, one tire at a time.'
+about_image: './trail.jpg'
+techs: ['UTV', 'ATV', 'Trails', 'GraphQL', 'Emotion', 'Stylus']
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas sit amet arcu tincidunt fermentum. Mauris ac nisl nibh. Etiam nunc eros, blandit vel eros laoreet, accumsan lacinia turpis.
