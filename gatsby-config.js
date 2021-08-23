@@ -1,12 +1,12 @@
 module.exports = {
   pathPrefix: '/m3t',
   siteMetadata: {
-    title: 'Level 2',
-    titleTemplate: '%s · Level 2',
+    title: 'Muck & Tire',
+    titleTemplate: '%s · Muck & Tire',
     image: '/images/logo.png',
     author: 'Muck and Tire',
-    description: 'Gatsby starter to quickly setup your portfolio and boost it to the next level.',
-    url: 'https://knochenmark.github.io',
+    description: 'A digital media company that enjoys getting out in the muck and mire; helping trail systems increase traffic (literally) one tire at a time!',
+    url: 'https://www.tbd.com',
     paginationPageSize: 4, // Amount of posts displayed per listing page.
   },
   plugins: [
