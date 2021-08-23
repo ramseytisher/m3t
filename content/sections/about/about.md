@@ -1,11 +1,7 @@
 ---
 title: 'Our mission is to bring muck (mud) and riders together, one tire at a time.'
-about_image: './trail.jpg'
-techs: ['UTV', 'ATV', 'Trails', 'GraphQL', 'Emotion', 'Stylus']
+about_image: './about-us.jpg'
+techs: []
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas sit amet arcu tincidunt fermentum. Mauris ac nisl nibh. Etiam nunc eros, blandit vel eros laoreet, accumsan lacinia turpis.
-
-Phasellus ut sagittis eros. Curabitur quis libero consequat, iaculis dolor sollicitudin, ultricies ligula. Donec sodales sed ex a fermentum. Quisque vitae efficitur odio, non aliquam sapien.
-
-Proin egestas luctus ornare. Donec maximus est lobortis, pharetra dolor in, convallis lorem. Duis ut erat in lectus faucibus iaculis. In tincidunt laoreet ante, vel pellentesque risus lacinia eu.
+Fueled by our deep interests in going offroad and technology; we want to connect more people to the outdoors. As our world becomes more and more digital, we don't see it as picking sides; rather how can we blend the two to enhance the experience.

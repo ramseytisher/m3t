@@ -31,7 +31,7 @@ const StyledForm = styled.div`
 const StyledTextSection = styled.section`
   white-space: pre-line;
   width: 100%;
-  max-width: 500px;
+  max-width: 600px;
   margin-left: 3px;
 `;
 const StyledSeparator = styled.div`

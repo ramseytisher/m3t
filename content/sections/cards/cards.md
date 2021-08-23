@@ -7,7 +7,7 @@ cards:
   - label: Trail Stats
     icon: tachometer-alt
     prefix: fas
-    description: Sensor data reports that you can use to gauge trail difficulty and inform customers with.
+    description: Sensor data reports that you can use to gauge trail difficulty and inform customers.
   - label: Aerial Maps
     icon: map
     prefix: fas
