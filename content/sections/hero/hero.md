@@ -5,4 +5,4 @@ cta_label: 'View Our Youtube Channel'
 cta_link: 'https://www.youtube.com'
 ---
 
-> A digital media company that enjoys getting out in the **muck and mire**; helping trail systems increase traffic (*literally*) one **tire** at a time!
+> A digital media company that enjoys getting out in the ***muck and mire***; helping people find dirt; one ***tire*** at a time!
