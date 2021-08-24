@@ -1,9 +1,3 @@
-[![Build Status](https://travis-ci.com/Knochenmark/gatsby-starter-level-2.svg?branch=master)](https://travis-ci.com/Knochenmark/gatsby-starter-level-2)
-[![GitHub issues](https://img.shields.io/github/issues/knochenmark/gatsby-starter-level-2.svg)](https://github.com/Knochenmark/gatsby-starter-level-2/issues)
-[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/knochenmark/gatsby-starter-level-2.svg)](https://github.com/Knochenmark/gatsby-starter-level-2/pulls)
-![GitHub contributors](https://img.shields.io/github/contributors/knochenmark/gatsby-starter-level-2.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/knochenmark/gatsby-starter-level-2.svg)
-
 <p align="center">
   <img alt="Level 2" src="./src/assets/logo.svg" width="140" />
 </p>
