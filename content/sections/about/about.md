@@ -1,6 +1,6 @@
 ---
 title: 'Our mission is to bring muck (mud) and riders together, one tire at a time.'
-about_image: './about-us.jpg'
+about_image: './about-us2.jpg'
 techs: []
 ---
 
