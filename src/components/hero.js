@@ -18,7 +18,7 @@ const StyledIntroduction = styled.div`
   color: var(--primary-color);
   font-weight: normal;
 `;
-const StyledAuthor = styled.h1`
+const StyledTitle = styled.h1`
   margin-left: -4px !important;
   font-size: 40px;
   line-height: 1.1;
@@ -50,20 +50,19 @@ const StyledDescription = styled.div`
 const Hero = ({ data }) => {
   const {
     introduction,
-    author,
+    title,
     tagline,
     description,
     ctaLink,
     ctaLabel,
-    hero_image
   } = data;
 
-  const image = hero_image ? hero_image.childImageSharp.fluid : null;
+  // const image = hero_image ? hero_image.childImageSharp.fluid : null;
 
   return (
     <StyledHeroSection>
       <StyledIntroduction>{introduction}</StyledIntroduction>
-      <StyledAuthor>{author}</StyledAuthor>
+      <StyledTitle>{title}</StyledTitle>
       <StyledTagline>{tagline}</StyledTagline>
       <StyledDescription dangerouslySetInnerHTML={{ __html: description }} />
       <ButtonLink label={ctaLabel} link={ctaLink} />

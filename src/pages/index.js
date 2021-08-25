@@ -14,7 +14,7 @@ import { indexMenuLinks } from '../components/_config/menu-links';
 
 const Index = ({ data }) => {
   const heroData = {
-    author: data.site.siteMetadata.author,
+    title: data.site.siteMetadata.title,
     tagline: data.hero.frontmatter.tagline,
     description: data.hero.html,
     introduction: data.hero.frontmatter.introduction,
@@ -46,7 +46,7 @@ export const query = graphql`
   {
     site {
       siteMetadata {
-        author
+        title
       }
     }
 
