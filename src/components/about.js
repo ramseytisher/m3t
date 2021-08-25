@@ -1,4 +1,5 @@
 import styled from '@emotion/styled';
+import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 import React from 'react';
 import TechList from './tech-list';
@@ -48,6 +49,8 @@ const About = ({ data }) => {
   );
 };
 
-About.propTypes = {};
+About.propTypes = {
+  data: PropTypes.object.isRequired,
+};
 
 export default About;

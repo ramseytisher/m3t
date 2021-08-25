@@ -5,6 +5,7 @@ import Icon from './icon';
 import { mq } from './_shared/media';
 import { StyledH1 } from './_shared/styled-headings';
 import { StyledSection } from './_shared/styled-section';
+import StyledSkewedSection from './skewed-section';
 
 const StyledTextSection = styled.section`
   white-space: pre-line;
@@ -67,11 +68,13 @@ const CardGrid = ({ cards, description, title, id = null }) => {
   });
 
   return (
-    <StyledSection id="services">
-      {title && <StyledH1>{title}</StyledH1>}
-      <StyledTextSection dangerouslySetInnerHTML={{ __html: description }} />
-      <StyledFeatureGridContainer>{featureCards}</StyledFeatureGridContainer>
-    </StyledSection>
+    <StyledSkewedSection angle={10}>
+      <StyledSection id="services">
+        {title && <StyledH1>{title}</StyledH1>}
+        <StyledTextSection dangerouslySetInnerHTML={{ __html: description }} />
+        <StyledFeatureGridContainer>{featureCards}</StyledFeatureGridContainer>
+      </StyledSection>
+    </StyledSkewedSection>
   );
 };
 
