@@ -29,9 +29,9 @@ const StyledHomeLink = styled(Link)`
 const StyledLogo = styled(Logo)`
   width: var(--header-height);
   height: var(--header-height);
-  fill: var(--title-color);
+  padding: 8px;
 
-  &:hover path.level-2 {
+  &:hover {
     fill: var(--primary-color);
   }
 `;
