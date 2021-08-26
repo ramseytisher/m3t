@@ -11,7 +11,7 @@ import { StyledIndexNumber } from './_shared/styled-index-number';
 const StyledHeader = styled.header`
   height: var(--header-height);
   flex-shrink: 0;
-  background-color: var(--bg-content-color);
+  background-color: var(--bg-color);
   padding-left: env(safe-area-inset-left);
   padding-right: env(safe-area-inset-left);
 `;
@@ -31,9 +31,9 @@ const StyledLogo = styled(Logo)`
   height: var(--header-height);
   padding: 8px;
 
-  &:hover {
+  /* &:hover {
     fill: var(--primary-color);
-  }
+  } */
 `;
 const StyledNav = styled.nav`
   flex: 1;
