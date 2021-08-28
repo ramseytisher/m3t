@@ -1,6 +1,6 @@
 ---
 phone: '(740) 509-2514'
-email: 'ramseytisher@gmail.com'
+email: 'info@muckandtire.com'
 address: 'Caldwell, Ohio'
 ---
 
